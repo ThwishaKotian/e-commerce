@@ -2,7 +2,7 @@
     height: 100vh;
     background: linear-gradient(180deg, #e3baaf, #e1ffea22 60%);
     display: flex;
-    padding-top: 100px;
+    /* padding-top: 100px; */
 }
 
 .hero-left{
@@ -10,7 +10,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
     padding-left: 100px;
     line-height: 1.1;
 }
@@ -23,7 +23,7 @@
 
 .hero-left p{
     color: #171717;
-    font-size: 100px;
+    font-size: 80px;
     font-weight: 700;
 }
 
@@ -57,4 +57,5 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding-top: 190px;
 }
